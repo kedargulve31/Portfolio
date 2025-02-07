@@ -31,7 +31,7 @@ const Navbar = () => {
       {/* GitHub Button for Desktop */}
       <div className="hidden md:block">
         <a
-          href="https://github.com/yourusername" // Replace with your GitHub URL
+          href="https://github.com/kedargulve31" 
           target="_blank"
           rel="noopener noreferrer"
           className="bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition duration-300"
