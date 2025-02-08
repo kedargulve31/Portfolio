@@ -82,7 +82,7 @@ function Footer() {
 
         {/* Footer Text */}
         <p className="mt-6 text-sm text-white text-center">
-          &copy; 2024 Kedar Gulve. All rights reserved.
+          &copy; 2025 Kedar Gulve. All rights reserved.
         </p>
       </footer>
     </div>
